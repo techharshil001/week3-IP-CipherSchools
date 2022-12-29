@@ -1,0 +1,15 @@
+h1{
+    background: lightblue;
+    /* text-align: center; */
+    width: 500px;
+    text-align: right;
+    padding-right: 10px;
+}
+
+a{
+    display:inline-block;
+    width: 500px;
+    background: lightcoral;
+    text-align: center;
+    text-align: left;
+}

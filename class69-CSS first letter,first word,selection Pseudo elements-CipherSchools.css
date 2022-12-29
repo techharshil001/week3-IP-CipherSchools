@@ -1,0 +1,8 @@
+p::first-letter{
+    font-size: 32px;
+}
+
+p::selection{
+    background: black;
+    color: white;
+}

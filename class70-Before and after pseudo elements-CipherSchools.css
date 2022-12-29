@@ -1,0 +1,21 @@
+.cool::before{
+    content:'hello';
+    color:greenyellow;
+    border: 1px dotted black;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+
+.cool::after{
+    display: block;
+    content:'hello';
+    color: green;
+    border: 1px dotted black;
+    margin-top: 5px;
+    padding: 10px;
+}
+
+.main-heading::before{
+    content:'hello';
+    color: red;
+}
